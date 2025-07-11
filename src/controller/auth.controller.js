@@ -144,25 +144,47 @@ async function updateProfile(req, res) {
     if (!user) return res.status(401).json({ message: 'No autenticado' });
 
     const { email, name, role, password } = req.body;
-    const updates = { email, name, role };
+    const updates = {};
 
-    if (password && password.trim() !== '') {
-      updates.password = await bcrypt.hash(password, 10);
+    if (email) updates.emailUser = email;
+    if (name) updates.nameUser = name;
+
+    // Si se envía un nombre de rol, busca el idRole correspondiente
+    if (role) {
+      let idRole = role;
+      if (isNaN(role)) {
+        // Buscar el idRole por nombre
+        const foundRole = await Role.findOne({ where: { nameRole: role } });
+        if (!foundRole) {
+          return res.status(400).json({ message: 'Rol no válido' });
+        }
+        idRole = foundRole.idRoles;
+      }
+      updates.idRole = idRole;
     }
 
-    // Busca y actualiza el usuario en MySQL
+    if (password && password.trim() !== '') {
+      updates.passwordUser = await bcrypt.hash(password, 10);
+    }
+
+    // Busca y actualiza el usuario en MySQL usando el id correcto de sesión
     const dbUser = await User.findByPk(user.id);
     if (!dbUser) return res.status(404).json({ message: 'Usuario no encontrado' });
 
     await dbUser.update(updates);
 
     // Actualiza la sesión
-    req.session.user = { ...user, email, name, role };
+    req.session.user = {
+      ...user,
+      email: updates.emailUser || user.emailUser,
+      name: updates.nameUser || user.nameUser,
+      role: updates.idRole || user.idRole
+    };
 
     res.json({ message: 'Perfil actualizado', user: req.session.user });
   } catch (error) {
-    console.error(error);
-    res.status(500).json({ message: 'Error al actualizar perfil' });
+    console.error('Error al actualizar perfil:', error);
+    res.status(500).json({ message: 'Error al actualizar perfil', error: error.message });
   }
 }
 

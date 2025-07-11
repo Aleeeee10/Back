@@ -1,0 +1,789 @@
+2025-07-10 18:24:37 [error] (node:29244) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 18:24:37 [error] (node:29244) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 18:24:37 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 18:24:37 [info] Mongoose connected to DB 
+2025-07-10 18:24:37 [info] MongoDB Connected... 
+2025-07-10 18:24:37 [info] Colecciones de MongoDB listas. 
+2025-07-10 18:24:37 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 18:24:37 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 18:24:37 [info] Sincronización de la base de datos completada. 
+2025-07-10 18:24:37 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 18:24:38 [info] Sincronización de la base de datos completada. 
+2025-07-10 18:24:40 [error] (node:17320) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 18:24:40 [error] (node:17320) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 18:24:40 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 18:24:40 [info] Mongoose connected to DB 
+2025-07-10 18:24:40 [info] MongoDB Connected... 
+2025-07-10 18:24:40 [info] Colecciones de MongoDB listas. 
+2025-07-10 18:24:40 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 18:24:40 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 18:24:40 [info] Sincronización de la base de datos completada. 
+2025-07-10 18:24:40 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 18:24:41 [info] Sincronización de la base de datos completada. 
+2025-07-10 18:24:45 [info] ::1 - - [10/Jul/2025:23:24:45 +0000] "GET /auth/preferences HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 18:24:51 [info] ::1 - - [10/Jul/2025:23:24:51 +0000] "POST /auth/login HTTP/1.1" 401 47 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 18:52:29 [error] (node:6456) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 18:52:29 [error] (node:6456) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 18:52:29 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 18:52:29 [info] Mongoose connected to DB 
+2025-07-10 18:52:29 [info] MongoDB Connected... 
+2025-07-10 18:52:30 [info] Colección UserPreferences lista. 
+2025-07-10 18:52:30 [info] Colecciones de MongoDB listas. 
+2025-07-10 18:52:30 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 18:52:30 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 18:52:30 [info] Sincronización de la base de datos completada. 
+2025-07-10 18:52:30 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 18:52:32 [error] (node:2168) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 18:52:32 [error] (node:2168) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 18:52:32 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 18:52:32 [info] Mongoose connected to DB 
+2025-07-10 18:52:32 [info] MongoDB Connected... 
+2025-07-10 18:52:32 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 18:52:32 [info] Colección UserPreferences lista. 
+2025-07-10 18:52:32 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 18:52:32 [info] Colecciones de MongoDB listas. 
+2025-07-10 18:52:32 [info] Sincronización de la base de datos completada. 
+2025-07-10 18:52:32 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 18:52:33 [info] Sincronización de la base de datos completada. 
+2025-07-10 18:53:03 [error] (node:15292) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 18:53:03 [error] (node:15292) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 18:53:03 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 18:53:03 [info] MongoDB Connected... 
+2025-07-10 18:53:03 [info] Mongoose connected to DB 
+2025-07-10 18:53:03 [info] MongoDB Connected... 
+2025-07-10 18:53:03 [info] Colección UserPreferences lista. 
+2025-07-10 18:53:03 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 18:53:03 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 18:53:03 [info] Colección UserPreferences lista. 
+2025-07-10 18:53:03 [info] Colecciones de MongoDB listas. 
+2025-07-10 18:53:03 [info] Sincronización de la base de datos completada. 
+2025-07-10 18:53:03 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 18:53:04 [info] Sincronización de la base de datos completada. 
+2025-07-10 18:53:13 [error] (node:22696) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 18:53:13 [error] (node:22696) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 18:53:13 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 18:53:13 [info] MongoDB Connected... 
+2025-07-10 18:53:13 [info] Mongoose connected to DB 
+2025-07-10 18:53:13 [info] MongoDB Connected... 
+2025-07-10 18:53:13 [info] Colección UserPreferences lista. 
+2025-07-10 18:53:13 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 18:53:13 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 18:53:13 [info] Colección UserPreferences lista. 
+2025-07-10 18:53:13 [info] Colecciones de MongoDB listas. 
+2025-07-10 18:53:13 [info] Sincronización de la base de datos completada. 
+2025-07-10 18:53:13 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 18:53:14 [info] Sincronización de la base de datos completada. 
+2025-07-10 18:53:46 [info] Mongoose disconnected 
+2025-07-10 18:53:56 [error] (node:22336) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 18:53:56 [error] (node:22336) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 18:53:56 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 18:53:56 [info] MongoDB Connected... 
+2025-07-10 18:53:56 [info] Mongoose connected to DB 
+2025-07-10 18:53:56 [info] MongoDB Connected... 
+2025-07-10 18:53:56 [info] Colección UserPreferences lista. 
+2025-07-10 18:53:56 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 18:53:56 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 18:53:56 [info] Colección UserPreferences lista. 
+2025-07-10 18:53:56 [info] Colecciones de MongoDB listas. 
+2025-07-10 18:53:56 [info] Sincronización de la base de datos completada. 
+2025-07-10 18:53:56 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 18:53:57 [info] Sincronización de la base de datos completada. 
+2025-07-10 18:54:37 [info] ::1 - - [10/Jul/2025:23:54:37 +0000] "POST /auth/login HTTP/1.1" 200 113 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 18:54:37 [info] ::1 - - [10/Jul/2025:23:54:37 +0000] "GET /admin/dashboard HTTP/1.1" 404 154 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 18:54:37 [info] ::1 - - [10/Jul/2025:23:54:37 +0000] "GET /auth/profile HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 18:54:37 [info] ::1 - - [10/Jul/2025:23:54:37 +0000] "GET /news HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 18:54:37 [info] ::1 - - [10/Jul/2025:23:54:37 +0000] "GET /auth/preferences HTTP/1.1" 200 20 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 18:54:39 [info] ::1 - - [10/Jul/2025:23:54:39 +0000] "GET /teams HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 18:54:40 [info] ::1 - - [10/Jul/2025:23:54:40 +0000] "GET /auth/profile HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 18:54:40 [info] ::1 - - [10/Jul/2025:23:54:40 +0000] "GET /auth/preferences HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 18:54:43 [info] ::1 - - [10/Jul/2025:23:54:43 +0000] "POST /auth/preferences HTTP/1.1" 200 227 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 18:55:24 [info] Mongoose disconnected 
+2025-07-10 18:55:33 [error] (node:10396) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 18:55:33 [error] (node:10396) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 18:55:33 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 18:55:33 [info] MongoDB Connected... 
+2025-07-10 18:55:33 [info] Mongoose connected to DB 
+2025-07-10 18:55:33 [info] MongoDB Connected... 
+2025-07-10 18:55:33 [info] Colección UserPreferences lista. 
+2025-07-10 18:55:33 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 18:55:33 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 18:55:33 [info] Colección UserPreferences lista. 
+2025-07-10 18:55:33 [info] Colecciones de MongoDB listas. 
+2025-07-10 18:55:33 [info] Sincronización de la base de datos completada. 
+2025-07-10 18:55:33 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 18:55:34 [info] Sincronización de la base de datos completada. 
+2025-07-10 18:56:20 [info] ::1 - - [10/Jul/2025:23:56:20 +0000] "POST /auth/preferences HTTP/1.1" 200 227 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:01:05 [error] (node:31404) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:01:05 [error] (node:31404) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:01:05 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:01:05 [info] Mongoose connected to DB 
+2025-07-10 19:01:05 [info] MongoDB Connected... 
+2025-07-10 19:01:05 [info] Colección UserPreferences lista. 
+2025-07-10 19:01:05 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:01:05 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:01:05 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:01:06 [error] (node:17664) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:01:06 [error] (node:17664) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:01:06 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:01:07 [info] Mongoose connected to DB 
+2025-07-10 19:01:07 [info] MongoDB Connected... 
+2025-07-10 19:01:07 [info] Colección UserPreferences lista. 
+2025-07-10 19:01:07 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:01:07 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:01:07 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:01:07 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:01:07 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:01:08 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:01:16 [error] (node:3780) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:01:16 [error] (node:3780) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:01:16 [info] la aplicacion corre en el puerto: undefined 
+2025-07-10 19:01:16 [info] Mongoose connected to DB 
+2025-07-10 19:01:16 [info] MongoDB Connected... 
+2025-07-10 19:01:16 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:01:16 [info] Colección UserPreferences lista. 
+2025-07-10 19:01:16 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:01:16 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:01:16 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:01:16 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:01:18 [error] (node:20908) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:01:18 [error] (node:20908) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:01:18 [info] la aplicacion corre en el puerto: undefined 
+2025-07-10 19:01:18 [info] Mongoose connected to DB 
+2025-07-10 19:01:18 [info] MongoDB Connected... 
+2025-07-10 19:01:18 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:01:18 [info] Colección UserPreferences lista. 
+2025-07-10 19:01:18 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:01:18 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:01:18 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:01:18 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:01:19 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:02:12 [error] (node:18968) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:02:12 [error] (node:18968) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:02:12 [info] la aplicacion corre en el puerto: undefined 
+2025-07-10 19:02:12 [info] Mongoose connected to DB 
+2025-07-10 19:02:12 [info] MongoDB Connected... 
+2025-07-10 19:02:12 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:02:12 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:02:12 [info] Colección UserPreferences lista. 
+2025-07-10 19:02:12 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:02:12 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:02:12 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:02:13 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:03:13 [error] (node:14160) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:03:13 [error] (node:14160) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:03:13 [info] la aplicacion corre en el puerto: undefined 
+2025-07-10 19:03:13 [info] Mongoose connected to DB 
+2025-07-10 19:03:13 [info] MongoDB Connected... 
+2025-07-10 19:03:13 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:03:13 [info] Colección UserPreferences lista. 
+2025-07-10 19:03:13 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:03:13 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:03:13 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:03:13 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:03:14 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:04:06 [error] (node:6516) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:04:06 [error] (node:6516) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:04:06 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:04:06 [info] Mongoose connected to DB 
+2025-07-10 19:04:06 [info] MongoDB Connected... 
+2025-07-10 19:04:06 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:04:06 [info] Colección UserPreferences lista. 
+2025-07-10 19:04:06 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:04:06 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:04:06 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:04:06 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:04:07 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:04:10 [error] (node:14500) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:04:10 [error] (node:14500) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:04:10 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:04:10 [info] MongoDB Connected... 
+2025-07-10 19:04:10 [info] Mongoose connected to DB 
+2025-07-10 19:04:10 [info] MongoDB Connected... 
+2025-07-10 19:04:10 [info] Colección UserPreferences lista. 
+2025-07-10 19:04:10 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:04:10 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:04:10 [info] Colección UserPreferences lista. 
+2025-07-10 19:04:10 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:04:10 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:04:10 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:04:28 [error] (node:9348) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:04:28 [error] (node:9348) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:04:28 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:04:28 [info] MongoDB Connected... 
+2025-07-10 19:04:28 [info] Mongoose connected to DB 
+2025-07-10 19:04:28 [info] MongoDB Connected... 
+2025-07-10 19:04:28 [info] Colección UserPreferences lista. 
+2025-07-10 19:04:28 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:04:28 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:04:28 [info] Colección UserPreferences lista. 
+2025-07-10 19:04:28 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:04:28 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:04:28 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:04:29 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:04:41 [info] ::1 - - [11/Jul/2025:00:04:41 +0000] "GET /auth/preferences HTTP/1.1" 200 20 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:04:46 [info] ::1 - - [11/Jul/2025:00:04:46 +0000] "POST /auth/login HTTP/1.1" 200 113 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:04:46 [info] ::1 - - [11/Jul/2025:00:04:46 +0000] "GET /admin/dashboard HTTP/1.1" 404 154 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:04:46 [info] ::1 - - [11/Jul/2025:00:04:46 +0000] "GET /auth/profile HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:04:46 [info] ::1 - - [11/Jul/2025:00:04:46 +0000] "GET /news HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:04:46 [info] ::1 - - [11/Jul/2025:00:04:46 +0000] "GET /auth/preferences HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:04:51 [info] ::1 - - [11/Jul/2025:00:04:51 +0000] "GET /auth/profile HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:04:51 [info] ::1 - - [11/Jul/2025:00:04:51 +0000] "GET /auth/preferences HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:04:56 [info] ::1 - - [11/Jul/2025:00:04:56 +0000] "POST /auth/preferences HTTP/1.1" 200 230 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:05:11 [info] ::1 - - [11/Jul/2025:00:05:11 +0000] "PUT /auth/profile HTTP/1.1" 200 120 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:05:11 [info] ::1 - - [11/Jul/2025:00:05:11 +0000] "GET /auth/profile HTTP/1.1" 200 89 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:05:30 [info] ::1 - - [11/Jul/2025:00:05:30 +0000] "PUT /auth/profile HTTP/1.1" 200 130 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:05:30 [info] ::1 - - [11/Jul/2025:00:05:30 +0000] "GET /auth/profile HTTP/1.1" 200 99 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:06:05 [info] ::1 - - [11/Jul/2025:00:06:05 +0000] "POST /auth/preferences HTTP/1.1" 200 248 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:12:54 [error] (node:25676) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:12:54 [error] (node:25676) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:12:54 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:12:54 [info] MongoDB Connected... 
+2025-07-10 19:12:54 [info] Mongoose connected to DB 
+2025-07-10 19:12:54 [info] MongoDB Connected... 
+2025-07-10 19:12:54 [info] Colección UserPreferences lista. 
+2025-07-10 19:12:54 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:12:54 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:12:54 [info] Colección UserPreferences lista. 
+2025-07-10 19:12:54 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:12:54 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:12:54 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:12:56 [error] (node:14032) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:12:56 [error] (node:14032) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:12:56 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:12:56 [info] MongoDB Connected... 
+2025-07-10 19:12:56 [info] Mongoose connected to DB 
+2025-07-10 19:12:56 [info] MongoDB Connected... 
+2025-07-10 19:12:56 [info] Colección UserPreferences lista. 
+2025-07-10 19:12:56 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:12:56 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:12:56 [info] Colección UserPreferences lista. 
+2025-07-10 19:12:56 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:12:56 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:12:56 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:12:57 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:13:02 [error] (node:3816) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:13:02 [error] (node:3816) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:13:02 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:13:02 [info] MongoDB Connected... 
+2025-07-10 19:13:02 [info] Mongoose connected to DB 
+2025-07-10 19:13:02 [info] MongoDB Connected... 
+2025-07-10 19:13:02 [info] Colección UserPreferences lista. 
+2025-07-10 19:13:02 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:13:02 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:13:02 [info] Colección UserPreferences lista. 
+2025-07-10 19:13:02 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:13:02 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:13:02 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:13:03 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:13:09 [info] ::1 - - [11/Jul/2025:00:13:09 +0000] "GET /auth/preferences HTTP/1.1" 200 213 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:13:17 [info] ::1 - - [11/Jul/2025:00:13:17 +0000] "POST /auth/login HTTP/1.1" 200 113 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:13:17 [info] ::1 - - [11/Jul/2025:00:13:17 +0000] "GET /admin/dashboard HTTP/1.1" 404 154 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:13:17 [info] ::1 - - [11/Jul/2025:00:13:17 +0000] "GET /auth/profile HTTP/1.1" 200 87 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:13:17 [info] ::1 - - [11/Jul/2025:00:13:17 +0000] "GET /news HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:13:17 [info] ::1 - - [11/Jul/2025:00:13:17 +0000] "GET /auth/preferences HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:13:18 [info] ::1 - - [11/Jul/2025:00:13:18 +0000] "GET /auth/profile HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:13:18 [info] ::1 - - [11/Jul/2025:00:13:18 +0000] "GET /auth/preferences HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:13:26 [error] SequelizeForeignKeyConstraintError: Cannot add or update a child row: a foreign key constraint fails (`futbolsocial`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`idRole`) REFERENCES `roles` (`idRoles`) ON DELETE NO ACTION ON UPDATE CASCADE) 
+2025-07-10 19:13:26 [info] ::1 - - [11/Jul/2025:00:13:26 +0000] "PUT /auth/profile HTTP/1.1" 500 40 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:13:35 [info] ::1 - - [11/Jul/2025:00:13:35 +0000] "GET /auth/preferences HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:13:40 [info] ::1 - - [11/Jul/2025:00:13:40 +0000] "POST /auth/login HTTP/1.1" 200 113 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:13:40 [info] ::1 - - [11/Jul/2025:00:13:40 +0000] "GET /admin/dashboard HTTP/1.1" 404 154 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:13:40 [info] ::1 - - [11/Jul/2025:00:13:40 +0000] "GET /auth/profile HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:13:40 [info] ::1 - - [11/Jul/2025:00:13:40 +0000] "GET /news HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:13:40 [info] ::1 - - [11/Jul/2025:00:13:40 +0000] "GET /auth/preferences HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:13:42 [info] ::1 - - [11/Jul/2025:00:13:42 +0000] "GET /auth/profile HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:13:42 [info] ::1 - - [11/Jul/2025:00:13:42 +0000] "GET /auth/preferences HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:13:50 [info] ::1 - - [11/Jul/2025:00:13:50 +0000] "POST /auth/preferences HTTP/1.1" 200 241 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:14:09 [error] SequelizeForeignKeyConstraintError: Cannot add or update a child row: a foreign key constraint fails (`futbolsocial`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`idRole`) REFERENCES `roles` (`idRoles`) ON DELETE NO ACTION ON UPDATE CASCADE) 
+2025-07-10 19:14:09 [info] ::1 - - [11/Jul/2025:00:14:09 +0000] "PUT /auth/profile HTTP/1.1" 500 40 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:19:08 [error] (node:6376) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:19:08 [error] (node:6376) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:19:08 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:19:08 [info] MongoDB Connected... 
+2025-07-10 19:19:08 [info] Mongoose connected to DB 
+2025-07-10 19:19:08 [info] MongoDB Connected... 
+2025-07-10 19:19:08 [info] Colección UserPreferences lista. 
+2025-07-10 19:19:08 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:19:08 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:19:08 [info] Colección UserPreferences lista. 
+2025-07-10 19:19:08 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:19:08 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:19:08 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:19:09 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:19:18 [error] (node:10548) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:19:18 [error] (node:10548) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:19:18 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:19:18 [info] MongoDB Connected... 
+2025-07-10 19:19:18 [info] Mongoose connected to DB 
+2025-07-10 19:19:18 [info] MongoDB Connected... 
+2025-07-10 19:19:18 [info] Colección UserPreferences lista. 
+2025-07-10 19:19:18 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:19:18 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:19:18 [info] Colección UserPreferences lista. 
+2025-07-10 19:19:18 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:19:18 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:19:18 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:19:19 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:19:49 [error] (node:29744) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:19:49 [error] (node:29744) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:19:49 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:19:49 [info] MongoDB Connected... 
+2025-07-10 19:19:49 [info] Mongoose connected to DB 
+2025-07-10 19:19:49 [info] MongoDB Connected... 
+2025-07-10 19:19:49 [info] Colección UserPreferences lista. 
+2025-07-10 19:19:49 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:19:49 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:19:49 [info] Colección UserPreferences lista. 
+2025-07-10 19:19:49 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:19:49 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:19:49 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:19:49 [error] Error al sincronizar la base de datos: SequelizeDatabaseError: Incorrect table definition; there can be only one auto column and it must be defined as a key 
+2025-07-10 19:19:50 [error] (node:9920) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:19:50 [error] (node:9920) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:19:50 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:19:50 [info] MongoDB Connected... 
+2025-07-10 19:19:50 [info] Mongoose connected to DB 
+2025-07-10 19:19:50 [info] MongoDB Connected... 
+2025-07-10 19:19:50 [info] Colección UserPreferences lista. 
+2025-07-10 19:19:50 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:19:50 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:19:50 [info] Colección UserPreferences lista. 
+2025-07-10 19:19:50 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:19:51 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:19:51 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:19:51 [error] Error al sincronizar la base de datos: SequelizeDatabaseError: Incorrect table definition; there can be only one auto column and it must be defined as a key 
+2025-07-10 19:20:01 [error] (node:13168) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:20:01 [error] (node:13168) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:20:01 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:20:01 [info] MongoDB Connected... 
+2025-07-10 19:20:01 [info] Mongoose connected to DB 
+2025-07-10 19:20:01 [info] MongoDB Connected... 
+2025-07-10 19:20:01 [info] Colección UserPreferences lista. 
+2025-07-10 19:20:01 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:20:01 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:20:01 [info] Colección UserPreferences lista. 
+2025-07-10 19:20:01 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:20:01 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:20:01 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:20:02 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:20:47 [error] (node:4536) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:20:47 [error] (node:4536) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:20:47 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:20:47 [info] MongoDB Connected... 
+2025-07-10 19:20:47 [info] Mongoose connected to DB 
+2025-07-10 19:20:47 [info] MongoDB Connected... 
+2025-07-10 19:20:47 [info] Colección UserPreferences lista. 
+2025-07-10 19:20:47 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:20:47 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:20:47 [info] Colección UserPreferences lista. 
+2025-07-10 19:20:47 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:20:47 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:20:47 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:20:49 [error] (node:1868) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:20:49 [error] (node:1868) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:20:49 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:20:49 [info] MongoDB Connected... 
+2025-07-10 19:20:49 [info] Mongoose connected to DB 
+2025-07-10 19:20:49 [info] MongoDB Connected... 
+2025-07-10 19:20:49 [info] Colección UserPreferences lista. 
+2025-07-10 19:20:49 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:20:49 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:20:49 [info] Colección UserPreferences lista. 
+2025-07-10 19:20:49 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:20:49 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:20:49 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:20:50 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:20:59 [error] (node:20320) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:20:59 [error] (node:20320) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:20:59 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:20:59 [info] MongoDB Connected... 
+2025-07-10 19:20:59 [info] Mongoose connected to DB 
+2025-07-10 19:20:59 [info] MongoDB Connected... 
+2025-07-10 19:20:59 [info] Colección UserPreferences lista. 
+2025-07-10 19:20:59 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:20:59 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:20:59 [info] Colección UserPreferences lista. 
+2025-07-10 19:20:59 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:20:59 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:20:59 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:21:00 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:21:04 [info] ::1 - - [11/Jul/2025:00:21:04 +0000] "GET /auth/preferences HTTP/1.1" 200 206 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:21:12 [info] ::1 - - [11/Jul/2025:00:21:12 +0000] "POST /auth/login HTTP/1.1" 401 47 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:21:17 [info] ::1 - - [11/Jul/2025:00:21:17 +0000] "POST /auth/login HTTP/1.1" 200 113 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:21:17 [info] ::1 - - [11/Jul/2025:00:21:17 +0000] "GET /admin/dashboard HTTP/1.1" 404 154 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:21:17 [info] ::1 - - [11/Jul/2025:00:21:17 +0000] "GET /auth/profile HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:21:17 [info] ::1 - - [11/Jul/2025:00:21:17 +0000] "GET /news HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:21:17 [info] ::1 - - [11/Jul/2025:00:21:17 +0000] "GET /auth/preferences HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:21:28 [info] ::1 - - [11/Jul/2025:00:21:28 +0000] "GET /teams HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:21:29 [info] ::1 - - [11/Jul/2025:00:21:29 +0000] "GET /players HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:21:29 [info] ::1 - - [11/Jul/2025:00:21:29 +0000] "GET /teams HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:21:30 [info] ::1 - - [11/Jul/2025:00:21:30 +0000] "GET /auth/profile HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:21:30 [info] ::1 - - [11/Jul/2025:00:21:30 +0000] "GET /auth/preferences HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:21:45 [info] ::1 - - [11/Jul/2025:00:21:45 +0000] "POST /auth/preferences HTTP/1.1" 200 229 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:21:58 [info] ::1 - - [11/Jul/2025:00:21:58 +0000] "PUT /auth/profile HTTP/1.1" 404 35 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:24:32 [error] (node:30976) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:24:32 [error] (node:30976) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:24:32 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:24:32 [info] MongoDB Connected... 
+2025-07-10 19:24:32 [info] Mongoose connected to DB 
+2025-07-10 19:24:32 [info] MongoDB Connected... 
+2025-07-10 19:24:32 [info] Colección UserPreferences lista. 
+2025-07-10 19:24:32 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:24:32 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:24:32 [info] Colección UserPreferences lista. 
+2025-07-10 19:24:32 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:24:32 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:24:32 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:24:34 [error] (node:31448) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:24:34 [error] (node:31448) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:24:34 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:24:34 [info] MongoDB Connected... 
+2025-07-10 19:24:34 [info] Mongoose connected to DB 
+2025-07-10 19:24:34 [info] MongoDB Connected... 
+2025-07-10 19:24:34 [info] Colección UserPreferences lista. 
+2025-07-10 19:24:34 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:24:34 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:24:34 [info] Colección UserPreferences lista. 
+2025-07-10 19:24:34 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:24:34 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:24:34 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:24:35 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:24:46 [error] (node:6664) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:24:46 [error] (node:6664) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:24:46 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:24:46 [info] MongoDB Connected... 
+2025-07-10 19:24:46 [info] Mongoose connected to DB 
+2025-07-10 19:24:46 [info] MongoDB Connected... 
+2025-07-10 19:24:46 [info] Colección UserPreferences lista. 
+2025-07-10 19:24:46 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:24:46 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:24:46 [info] Colección UserPreferences lista. 
+2025-07-10 19:24:46 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:24:47 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:24:47 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:24:48 [error] (node:16408) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:24:48 [error] (node:16408) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:24:48 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:24:48 [info] MongoDB Connected... 
+2025-07-10 19:24:48 [info] Mongoose connected to DB 
+2025-07-10 19:24:48 [info] MongoDB Connected... 
+2025-07-10 19:24:48 [info] Colección UserPreferences lista. 
+2025-07-10 19:24:48 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:24:48 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:24:48 [info] Colección UserPreferences lista. 
+2025-07-10 19:24:48 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:24:48 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:24:48 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:24:49 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:24:53 [error] (node:12280) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:24:53 [error] (node:12280) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:24:53 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:24:53 [info] MongoDB Connected... 
+2025-07-10 19:24:53 [info] Mongoose connected to DB 
+2025-07-10 19:24:53 [info] MongoDB Connected... 
+2025-07-10 19:24:53 [info] Colección UserPreferences lista. 
+2025-07-10 19:24:53 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:24:53 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:24:53 [info] Colección UserPreferences lista. 
+2025-07-10 19:24:53 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:24:53 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:24:53 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:24:54 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:24:57 [info] ::1 - - [11/Jul/2025:00:24:57 +0000] "GET /auth/preferences HTTP/1.1" 200 194 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:25:11 [info] ::1 - - [11/Jul/2025:00:25:11 +0000] "POST /auth/login HTTP/1.1" 200 113 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:25:11 [info] ::1 - - [11/Jul/2025:00:25:11 +0000] "GET /admin/dashboard HTTP/1.1" 404 154 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:25:11 [info] ::1 - - [11/Jul/2025:00:25:11 +0000] "GET /auth/profile HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:25:11 [info] ::1 - - [11/Jul/2025:00:25:11 +0000] "GET /news HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:25:11 [info] ::1 - - [11/Jul/2025:00:25:11 +0000] "GET /auth/preferences HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:25:12 [info] ::1 - - [11/Jul/2025:00:25:12 +0000] "GET /auth/profile HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:25:12 [info] ::1 - - [11/Jul/2025:00:25:12 +0000] "GET /auth/preferences HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:25:23 [info] ::1 - - [11/Jul/2025:00:25:23 +0000] "POST /auth/preferences HTTP/1.1" 200 226 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:25:34 [error] Error al actualizar perfil: SequelizeForeignKeyConstraintError: Cannot add or update a child row: a foreign key constraint fails (`futbolsocial`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`idRole`) REFERENCES `roles` (`idRoles`) ON DELETE NO ACTION ON UPDATE CASCADE) 
+2025-07-10 19:25:34 [info] ::1 - - [11/Jul/2025:00:25:34 +0000] "PUT /auth/profile HTTP/1.1" 500 259 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:31:52 [error] (node:25508) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:31:52 [error] (node:25508) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:31:52 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:31:52 [info] MongoDB Connected... 
+2025-07-10 19:31:52 [info] Mongoose connected to DB 
+2025-07-10 19:31:52 [info] MongoDB Connected... 
+2025-07-10 19:31:52 [info] Colección UserPreferences lista. 
+2025-07-10 19:31:52 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:31:52 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:31:52 [info] Colección UserPreferences lista. 
+2025-07-10 19:31:52 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:31:52 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:31:52 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:31:53 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:32:05 [error] (node:1240) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:32:05 [error] (node:1240) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:32:05 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:32:05 [info] MongoDB Connected... 
+2025-07-10 19:32:05 [info] Mongoose connected to DB 
+2025-07-10 19:32:05 [info] MongoDB Connected... 
+2025-07-10 19:32:05 [info] Colección UserPreferences lista. 
+2025-07-10 19:32:05 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:32:05 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:32:05 [info] Colección UserPreferences lista. 
+2025-07-10 19:32:05 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:32:05 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:32:05 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:32:06 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:32:21 [error] (node:1800) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:32:21 [error] (node:1800) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:32:21 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:32:21 [info] MongoDB Connected... 
+2025-07-10 19:32:21 [info] Mongoose connected to DB 
+2025-07-10 19:32:21 [info] MongoDB Connected... 
+2025-07-10 19:32:21 [info] Colección UserPreferences lista. 
+2025-07-10 19:32:21 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:32:21 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:32:21 [info] Colección UserPreferences lista. 
+2025-07-10 19:32:21 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:32:21 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:32:21 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:32:23 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:32:28 [info] ::1 - - [11/Jul/2025:00:32:28 +0000] "GET /auth/preferences HTTP/1.1" 200 191 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:32:34 [info] ::1 - - [11/Jul/2025:00:32:34 +0000] "POST /auth/login HTTP/1.1" 200 113 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:32:34 [info] ::1 - - [11/Jul/2025:00:32:34 +0000] "GET /admin/dashboard HTTP/1.1" 404 154 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:32:34 [info] ::1 - - [11/Jul/2025:00:32:34 +0000] "GET /auth/profile HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:32:34 [info] ::1 - - [11/Jul/2025:00:32:34 +0000] "GET /auth/preferences HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:32:34 [info] ::1 - - [11/Jul/2025:00:32:34 +0000] "GET /news HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:32:35 [info] ::1 - - [11/Jul/2025:00:32:35 +0000] "GET /auth/profile HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:32:35 [info] ::1 - - [11/Jul/2025:00:32:35 +0000] "GET /auth/preferences HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:32:39 [error] Error al actualizar perfil: SequelizeForeignKeyConstraintError: Cannot add or update a child row: a foreign key constraint fails (`futbolsocial`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`idRole`) REFERENCES `roles` (`idRoles`) ON DELETE NO ACTION ON UPDATE CASCADE) 
+2025-07-10 19:32:39 [info] ::1 - - [11/Jul/2025:00:32:39 +0000] "PUT /auth/profile HTTP/1.1" 500 259 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:35:03 [error] (node:13496) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:35:03 [error] (node:13496) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:35:03 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:35:03 [info] MongoDB Connected... 
+2025-07-10 19:35:03 [info] Mongoose connected to DB 
+2025-07-10 19:35:03 [info] MongoDB Connected... 
+2025-07-10 19:35:03 [info] Colección UserPreferences lista. 
+2025-07-10 19:35:03 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:35:03 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:35:03 [info] Colección UserPreferences lista. 
+2025-07-10 19:35:03 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:35:03 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:35:03 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:35:05 [error] (node:1792) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:35:05 [error] (node:1792) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:35:05 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:35:05 [info] MongoDB Connected... 
+2025-07-10 19:35:05 [info] Mongoose connected to DB 
+2025-07-10 19:35:05 [info] MongoDB Connected... 
+2025-07-10 19:35:05 [info] Colección UserPreferences lista. 
+2025-07-10 19:35:05 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:35:05 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:35:05 [info] Colección UserPreferences lista. 
+2025-07-10 19:35:05 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:35:05 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:35:05 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:35:06 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:35:13 [error] (node:31444) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-10 19:35:13 [error] (node:31444) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-10 19:35:13 [info] la aplicacion corre en el puerto: 3000 
+2025-07-10 19:35:13 [info] MongoDB Connected... 
+2025-07-10 19:35:13 [info] Mongoose connected to DB 
+2025-07-10 19:35:13 [info] MongoDB Connected... 
+2025-07-10 19:35:13 [info] Colección UserPreferences lista. 
+2025-07-10 19:35:13 [info] Conexión a la base de datos establecida correctamente. 
+2025-07-10 19:35:13 [info] Conexión a la base de datos MySQL establecida correctamente. 
+2025-07-10 19:35:13 [info] Colección UserPreferences lista. 
+2025-07-10 19:35:13 [info] Colecciones de MongoDB listas. 
+2025-07-10 19:35:13 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:35:13 [info] ✅ Los roles ya existen, no se insertaron duplicados 
+2025-07-10 19:35:14 [info] Sincronización de la base de datos completada. 
+2025-07-10 19:35:20 [info] ::1 - - [11/Jul/2025:00:35:20 +0000] "GET /auth/preferences HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:35:26 [info] ::1 - - [11/Jul/2025:00:35:26 +0000] "POST /auth/login HTTP/1.1" 200 113 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:35:26 [info] ::1 - - [11/Jul/2025:00:35:26 +0000] "GET /admin/dashboard HTTP/1.1" 404 154 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:35:26 [info] ::1 - - [11/Jul/2025:00:35:26 +0000] "GET /auth/profile HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:35:26 [info] ::1 - - [11/Jul/2025:00:35:26 +0000] "GET /news HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:35:26 [info] ::1 - - [11/Jul/2025:00:35:26 +0000] "GET /auth/preferences HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:35:28 [info] ::1 - - [11/Jul/2025:00:35:28 +0000] "GET /auth/profile HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:35:28 [info] ::1 - - [11/Jul/2025:00:35:28 +0000] "GET /auth/preferences HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:35:31 [info] ::1 - - [11/Jul/2025:00:35:31 +0000] "PUT /auth/profile HTTP/1.1" 200 117 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:35:31 [info] ::1 - - [11/Jul/2025:00:35:31 +0000] "GET /auth/profile HTTP/1.1" 200 86 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:35:52 [info] ::1 - - [11/Jul/2025:00:35:52 +0000] "POST /auth/preferences HTTP/1.1" 200 228 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:36:29 [info] ::1 - - [11/Jul/2025:00:36:29 +0000] "POST /auth/register HTTP/1.1" 400 33 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:36:48 [info] ::1 - - [11/Jul/2025:00:36:48 +0000] "POST /auth/register HTTP/1.1" 400 28 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:38:16 [info] ::1 - - [11/Jul/2025:00:38:16 +0000] "GET /auth/preferences HTTP/1.1" 200 193 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:38:33 [info] ::1 - - [11/Jul/2025:00:38:33 +0000] "POST /auth/register HTTP/1.1" 201 45 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:38:42 [info] ::1 - - [11/Jul/2025:00:38:42 +0000] "POST /auth/login HTTP/1.1" 401 47 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:38:48 [info] ::1 - - [11/Jul/2025:00:38:48 +0000] "POST /auth/login HTTP/1.1" 200 107 "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" 
+2025-07-10 19:38:53 [info] ::1 - - [11/Jul/2025:00:38:53 +0000] "GET /auth/profile HTTP/1.1" 200 81 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:38:53 [info] ::1 - - [11/Jul/2025:00:38:53 +0000] "GET /auth/preferences HTTP/1.1" 200 20 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:38:56 [info] ::1 - - [11/Jul/2025:00:38:56 +0000] "GET /teams HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:38:56 [info] ::1 - - [11/Jul/2025:00:38:56 +0000] "GET /players HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:38:57 [info] ::1 - - [11/Jul/2025:00:38:57 +0000] "GET /matches HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:38:58 [info] ::1 - - [11/Jul/2025:00:38:58 +0000] "GET /referees HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:38:58 [info] ::1 - - [11/Jul/2025:00:38:58 +0000] "GET /news HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:38:59 [info] ::1 - - [11/Jul/2025:00:38:59 +0000] "GET /standings HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:39:39 [info] ::1 - - [11/Jul/2025:00:39:39 +0000] "GET /auth/profile HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 19:39:39 [info] ::1 - - [11/Jul/2025:00:39:39 +0000] "GET /auth/preferences HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:54:08 [info] ::1 - - [11/Jul/2025:01:54:08 +0000] "POST /auth/login HTTP/1.1" 200 118 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:54:08 [info] ::1 - - [11/Jul/2025:01:54:08 +0000] "GET /admin/dashboard HTTP/1.1" 404 154 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:54:08 [info] ::1 - - [11/Jul/2025:01:54:08 +0000] "GET /auth/profile HTTP/1.1" 200 92 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:54:08 [info] ::1 - - [11/Jul/2025:01:54:08 +0000] "GET /news HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:54:08 [info] ::1 - - [11/Jul/2025:01:54:08 +0000] "GET /auth/preferences HTTP/1.1" 200 193 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:54:24 [info] ::1 - - [11/Jul/2025:01:54:24 +0000] "POST /auth/login HTTP/1.1" 401 47 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:54:51 [info] ::1 - - [11/Jul/2025:01:54:51 +0000] "POST /auth/login HTTP/1.1" 401 47 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:54:57 [info] ::1 - - [11/Jul/2025:01:54:57 +0000] "POST /auth/login HTTP/1.1" 200 107 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:55:00 [info] ::1 - - [11/Jul/2025:01:55:00 +0000] "GET /auth/profile HTTP/1.1" 200 81 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:55:00 [info] ::1 - - [11/Jul/2025:01:55:00 +0000] "GET /auth/preferences HTTP/1.1" 200 20 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:55:02 [info] ::1 - - [11/Jul/2025:01:55:02 +0000] "GET /teams HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:55:02 [info] ::1 - - [11/Jul/2025:01:55:02 +0000] "GET /players HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:55:03 [info] ::1 - - [11/Jul/2025:01:55:03 +0000] "GET /matches HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:55:04 [info] ::1 - - [11/Jul/2025:01:55:04 +0000] "GET /standings HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:55:05 [info] ::1 - - [11/Jul/2025:01:55:05 +0000] "GET /referees HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:55:06 [info] ::1 - - [11/Jul/2025:01:55:06 +0000] "GET /standings HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:55:06 [info] ::1 - - [11/Jul/2025:01:55:06 +0000] "GET /matches HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:55:06 [info] ::1 - - [11/Jul/2025:01:55:06 +0000] "GET /players HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:55:07 [info] ::1 - - [11/Jul/2025:01:55:07 +0000] "GET /teams HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:55:07 [info] ::1 - - [11/Jul/2025:01:55:07 +0000] "GET /auth/profile HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:55:07 [info] ::1 - - [11/Jul/2025:01:55:07 +0000] "GET /auth/preferences HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:55:14 [info] ::1 - - [11/Jul/2025:01:55:14 +0000] "POST /auth/login HTTP/1.1" 200 118 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:55:14 [info] ::1 - - [11/Jul/2025:01:55:14 +0000] "GET /admin/dashboard HTTP/1.1" 404 154 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:55:14 [info] ::1 - - [11/Jul/2025:01:55:14 +0000] "GET /auth/profile HTTP/1.1" 200 92 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:55:14 [info] ::1 - - [11/Jul/2025:01:55:14 +0000] "GET /news HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:55:14 [info] ::1 - - [11/Jul/2025:01:55:14 +0000] "GET /auth/preferences HTTP/1.1" 200 193 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:55:17 [info] ::1 - - [11/Jul/2025:01:55:17 +0000] "GET /teams HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:56:11 [info] ::1 - - [11/Jul/2025:01:56:11 +0000] "POST /teams HTTP/1.1" 201 179 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:56:11 [info] ::1 - - [11/Jul/2025:01:56:11 +0000] "GET /teams HTTP/1.1" 200 199 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:56:26 [info] ::1 - - [11/Jul/2025:01:56:26 +0000] "POST /teams HTTP/1.1" 201 158 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:56:26 [info] ::1 - - [11/Jul/2025:01:56:26 +0000] "GET /teams HTTP/1.1" 200 376 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:56:33 [info] ::1 - - [11/Jul/2025:01:56:33 +0000] "GET /teams HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:56:39 [info] ::1 - - [11/Jul/2025:01:56:39 +0000] "GET /admin/dashboard HTTP/1.1" 404 154 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:56:39 [info] ::1 - - [11/Jul/2025:01:56:39 +0000] "GET /auth/profile HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:56:39 [info] ::1 - - [11/Jul/2025:01:56:39 +0000] "GET /news HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:56:39 [info] ::1 - - [11/Jul/2025:01:56:39 +0000] "GET /auth/preferences HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:56:40 [info] ::1 - - [11/Jul/2025:01:56:40 +0000] "GET /teams HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:56:56 [info] ::1 - - [11/Jul/2025:01:56:56 +0000] "POST /teams HTTP/1.1" 201 260 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:56:56 [info] ::1 - - [11/Jul/2025:01:56:56 +0000] "GET /teams HTTP/1.1" 200 655 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:57:23 [info] ::1 - - [11/Jul/2025:01:57:23 +0000] "POST /teams HTTP/1.1" 201 195 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:57:23 [info] ::1 - - [11/Jul/2025:01:57:23 +0000] "GET /teams HTTP/1.1" 200 869 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:57:42 [info] ::1 - - [11/Jul/2025:01:57:42 +0000] "POST /teams HTTP/1.1" 201 221 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:57:42 [info] ::1 - - [11/Jul/2025:01:57:42 +0000] "GET /teams HTTP/1.1" 200 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:57:44 [info] ::1 - - [11/Jul/2025:01:57:44 +0000] "GET /players HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:57:44 [info] ::1 - - [11/Jul/2025:01:57:44 +0000] "GET /teams HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:58:17 [info] ::1 - - [11/Jul/2025:01:58:17 +0000] "POST /players HTTP/1.1" 201 208 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:58:17 [info] ::1 - - [11/Jul/2025:01:58:17 +0000] "GET /players HTTP/1.1" 200 394 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:58:39 [info] ::1 - - [11/Jul/2025:01:58:39 +0000] "POST /players HTTP/1.1" 201 261 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:58:39 [info] ::1 - - [11/Jul/2025:01:58:39 +0000] "GET /players HTTP/1.1" 200 861 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:59:24 [info] ::1 - - [11/Jul/2025:01:59:24 +0000] "POST /players HTTP/1.1" 201 196 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:59:24 [info] ::1 - - [11/Jul/2025:01:59:24 +0000] "GET /players HTTP/1.1" 200 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:59:47 [info] ::1 - - [11/Jul/2025:01:59:47 +0000] "POST /players HTTP/1.1" 201 316 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 20:59:47 [info] ::1 - - [11/Jul/2025:01:59:47 +0000] "GET /players HTTP/1.1" 200 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:00:08 [info] ::1 - - [11/Jul/2025:02:00:08 +0000] "POST /players HTTP/1.1" 201 167 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:00:08 [info] ::1 - - [11/Jul/2025:02:00:08 +0000] "GET /players HTTP/1.1" 200 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:00:29 [info] ::1 - - [11/Jul/2025:02:00:29 +0000] "POST /players HTTP/1.1" 201 169 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:00:29 [info] ::1 - - [11/Jul/2025:02:00:29 +0000] "GET /players HTTP/1.1" 200 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:00:49 [info] ::1 - - [11/Jul/2025:02:00:49 +0000] "POST /players HTTP/1.1" 201 163 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:00:49 [info] ::1 - - [11/Jul/2025:02:00:49 +0000] "GET /players HTTP/1.1" 200 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:01:15 [info] ::1 - - [11/Jul/2025:02:01:15 +0000] "POST /players HTTP/1.1" 201 209 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:01:15 [info] ::1 - - [11/Jul/2025:02:01:15 +0000] "GET /players HTTP/1.1" 200 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:01:24 [info] ::1 - - [11/Jul/2025:02:01:24 +0000] "GET /referees HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:01:44 [info] ::1 - - [11/Jul/2025:02:01:44 +0000] "POST /referees HTTP/1.1" 201 215 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:01:44 [info] ::1 - - [11/Jul/2025:02:01:44 +0000] "GET /referees HTTP/1.1" 200 217 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:02:00 [info] ::1 - - [11/Jul/2025:02:02:00 +0000] "POST /referees HTTP/1.1" 201 221 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:02:00 [info] ::1 - - [11/Jul/2025:02:02:00 +0000] "GET /referees HTTP/1.1" 200 439 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:02:20 [info] ::1 - - [11/Jul/2025:02:02:20 +0000] "POST /referees HTTP/1.1" 201 189 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:02:20 [info] ::1 - - [11/Jul/2025:02:02:20 +0000] "GET /referees HTTP/1.1" 200 629 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:02:41 [info] ::1 - - [11/Jul/2025:02:02:41 +0000] "POST /referees HTTP/1.1" 201 192 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:02:41 [info] ::1 - - [11/Jul/2025:02:02:41 +0000] "GET /referees HTTP/1.1" 200 822 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:03:01 [info] ::1 - - [11/Jul/2025:02:03:01 +0000] "POST /referees HTTP/1.1" 201 226 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:03:01 [info] ::1 - - [11/Jul/2025:02:03:01 +0000] "GET /referees HTTP/1.1" 200 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:03:03 [info] ::1 - - [11/Jul/2025:02:03:03 +0000] "GET /teams HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:03:03 [info] ::1 - - [11/Jul/2025:02:03:03 +0000] "GET /referees HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:03:03 [info] ::1 - - [11/Jul/2025:02:03:03 +0000] "GET /matches HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:03:30 [info] ::1 - - [11/Jul/2025:02:03:30 +0000] "POST /matches HTTP/1.1" 201 117 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:03:30 [info] ::1 - - [11/Jul/2025:02:03:30 +0000] "GET /matches HTTP/1.1" 200 758 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:03:38 [info] ::1 - - [11/Jul/2025:02:03:38 +0000] "GET /news HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:03:38 [info] ::1 - - [11/Jul/2025:02:03:38 +0000] "GET /matches HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:04:19 [info] ::1 - - [11/Jul/2025:02:04:19 +0000] "POST /news HTTP/1.1" 201 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:04:19 [info] ::1 - - [11/Jul/2025:02:04:19 +0000] "GET /news HTTP/1.1" 200 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:04:23 [info] ::1 - - [11/Jul/2025:02:04:23 +0000] "GET /teams HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:04:23 [info] ::1 - - [11/Jul/2025:02:04:23 +0000] "GET /standings HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:04:35 [info] ::1 - - [11/Jul/2025:02:04:35 +0000] "POST /standings HTTP/1.1" 201 115 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:04:35 [info] ::1 - - [11/Jul/2025:02:04:35 +0000] "GET /standings HTTP/1.1" 200 340 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:04:47 [info] ::1 - - [11/Jul/2025:02:04:47 +0000] "POST /standings HTTP/1.1" 201 104 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:04:47 [info] ::1 - - [11/Jul/2025:02:04:47 +0000] "GET /standings HTTP/1.1" 200 661 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:04:57 [info] ::1 - - [11/Jul/2025:02:04:57 +0000] "POST /standings HTTP/1.1" 201 104 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:04:57 [info] ::1 - - [11/Jul/2025:02:04:57 +0000] "GET /standings HTTP/1.1" 200 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:05:07 [info] ::1 - - [11/Jul/2025:02:05:07 +0000] "POST /standings HTTP/1.1" 201 104 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:05:07 [info] ::1 - - [11/Jul/2025:02:05:07 +0000] "GET /standings HTTP/1.1" 200 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:05:20 [info] ::1 - - [11/Jul/2025:02:05:20 +0000] "POST /standings HTTP/1.1" 201 104 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:05:20 [info] ::1 - - [11/Jul/2025:02:05:20 +0000] "GET /standings HTTP/1.1" 200 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:05:38 [info] ::1 - - [11/Jul/2025:02:05:38 +0000] "PUT /standings/1 HTTP/1.1" 200 133 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:05:38 [info] ::1 - - [11/Jul/2025:02:05:38 +0000] "GET /standings HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:05:46 [info] ::1 - - [11/Jul/2025:02:05:46 +0000] "GET /auth/profile HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:05:46 [info] ::1 - - [11/Jul/2025:02:05:46 +0000] "GET /auth/preferences HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:05:59 [info] ::1 - - [11/Jul/2025:02:05:59 +0000] "PUT /auth/profile HTTP/1.1" 200 111 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:05:59 [info] ::1 - - [11/Jul/2025:02:05:59 +0000] "GET /auth/profile HTTP/1.1" 200 80 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:06:17 [info] ::1 - - [11/Jul/2025:02:06:17 +0000] "POST /auth/preferences HTTP/1.1" 200 222 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:06:31 [info] ::1 - - [11/Jul/2025:02:06:31 +0000] "GET /teams HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:06:36 [info] ::1 - - [11/Jul/2025:02:06:36 +0000] "GET /players HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:06:42 [info] ::1 - - [11/Jul/2025:02:06:42 +0000] "GET /matches HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:07:31 [info] ::1 - - [11/Jul/2025:02:07:31 +0000] "GET /news HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:07:33 [info] ::1 - - [11/Jul/2025:02:07:33 +0000] "GET /referees HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:07:40 [info] ::1 - - [11/Jul/2025:02:07:40 +0000] "GET /standings HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:07:44 [info] ::1 - - [11/Jul/2025:02:07:44 +0000] "GET /auth/profile HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:07:44 [info] ::1 - - [11/Jul/2025:02:07:44 +0000] "GET /auth/preferences HTTP/1.1" 200 187 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:08:26 [info] ::1 - - [11/Jul/2025:02:08:26 +0000] "GET /teams HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:08:30 [info] ::1 - - [11/Jul/2025:02:08:30 +0000] "GET /auth/preferences HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:08:33 [info] ::1 - - [11/Jul/2025:02:08:33 +0000] "GET /matches HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:08:40 [info] ::1 - - [11/Jul/2025:02:08:40 +0000] "GET /news HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:08:40 [info] ::1 - - [11/Jul/2025:02:08:40 +0000] "GET /matches HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:08:41 [info] ::1 - - [11/Jul/2025:02:08:41 +0000] "GET /players HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:08:42 [info] ::1 - - [11/Jul/2025:02:08:42 +0000] "GET /teams HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:08:43 [info] ::1 - - [11/Jul/2025:02:08:43 +0000] "GET /players HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:08:44 [info] ::1 - - [11/Jul/2025:02:08:44 +0000] "GET /referees HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:09:51 [info] ::1 - - [11/Jul/2025:02:09:51 +0000] "GET /teams HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:09:53 [info] ::1 - - [11/Jul/2025:02:09:53 +0000] "GET /players HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:09:53 [info] ::1 - - [11/Jul/2025:02:09:53 +0000] "GET /matches HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:09:57 [info] ::1 - - [11/Jul/2025:02:09:57 +0000] "GET /news HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:10:00 [info] ::1 - - [11/Jul/2025:02:10:00 +0000] "GET /standings HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:10:01 [info] ::1 - - [11/Jul/2025:02:10:01 +0000] "GET /referees HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:10:04 [info] ::1 - - [11/Jul/2025:02:10:04 +0000] "GET /news HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:10:05 [info] ::1 - - [11/Jul/2025:02:10:05 +0000] "GET /players HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:10:10 [info] ::1 - - [11/Jul/2025:02:10:10 +0000] "GET /teams HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:11:51 [info] ::1 - - [11/Jul/2025:02:11:51 +0000] "GET /teams HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 
+2025-07-10 21:11:52 [info] ::1 - - [11/Jul/2025:02:11:52 +0000] "GET /players HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" 

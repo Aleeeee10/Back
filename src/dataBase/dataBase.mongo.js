@@ -1,5 +1,6 @@
 const mongoose = require('mongoose');
-const { MONGO_URI } = require('../keys'); // Cambia aquí
+const { MONGO_URI } = require('../keys');
+const UserPreferences = require('../model/userPreferences.model'); // <-- IMPORTA TU MODELO
 
 // Opciones de conexión recomendadas para Mongoose
 const MONGODB_OPTIONS = {
@@ -17,6 +18,9 @@ const connectDB = async () => {
   try {
     await mongoose.connect(MONGO_URI, MONGODB_OPTIONS); // Cambia aquí
     console.log('MongoDB Connected...');
+    // Crear la colección si no existe
+    await UserPreferences.createCollection();
+    console.log('Colección UserPreferences lista.');
   } catch (err) {
     console.error('MongoDB Connection Error:', err);
     process.exit(1);
